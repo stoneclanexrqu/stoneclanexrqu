@@ -3,9 +3,9 @@
 ## Hello <img src="https://raw.githubusercontent.com/igorkowalczyk/igorkowalczyk/master/src/images/wave.gif" width="27px">
 > Hello, I'm xrqu. I am a first year high school student and I live in Turkey. I'm good at making bots, although I don't devote my entire life to coding. thank you for reading :)
 
-[![Discord Badge](https://img.shields.io/badge/Discord%20-7289DA.svg?&amp;style=for-the-badge&amp;logo=discord&amp;logoColor=white)]()
-[![Discord Badge](https://img.shields.io/badge/spotify-ff0000.svg?&amp;style=for-the-badge&amp;logo=spotify&amp;logoColor=white)]()
-[![Discord Badge](https://img.shields.io/badge/Twitter%20-171515.svg?&amp;style=for-the-badge&amp;logo=twitter&amp;logoColor=white)](https://twitter.com/xrqulivee)
+[![Discord Badge](https://img.shields.io/badge/Discord%20-7289DA.svg?&amp;style=for-the-badge&amp;logo=discord&amp;logoColor=white)](https://discord.com/users/850299286595698718)
+[![Discord Badge](https://img.shields.io/badge/spotify-32f024.svg?&amp;style=for-the-badge&amp;logo=spotify&amp;logoColor=white)](https://open.spotify.com/user/xrqulette)
+[![Discord Badge](https://img.shields.io/badge/Twitter%20-18a6ed.svg?&amp;style=for-the-badge&amp;logo=twitter&amp;logoColor=white)](https://twitter.com/xrqulivee)
 
 -----------
 ## About me 

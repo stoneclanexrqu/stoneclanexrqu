@@ -7,7 +7,8 @@
 [![Discord Badge](https://img.shields.io/badge/spotify-32f024.svg?&amp;style=for-the-badge&amp;logo=spotify&amp;logoColor=white)](https://open.spotify.com/user/xrqulette)
 [![Discord Badge](https://img.shields.io/badge/Twitter%20-18a6ed.svg?&amp;style=for-the-badge&amp;logo=twitter&amp;logoColor=white)](https://twitter.com/xrqulivee)
 
------------
+<details><summary>✨ Show more</summary>
+  -----------
 ## About me 
 
 
@@ -16,3 +17,4 @@
 * [🍭 Bots](https://giveaways-bot.com)
 
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=xrquu">
+  </details>

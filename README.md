@@ -9,8 +9,10 @@
 
 -----------
 ## About me 
-<img align="right" src="https://github-readme-stats.vercel.app/api?username=xrquu">
+
 
 * [❓ Personal](https://xrqu.live)
 * [📧 E-mail](mailto:xrqu@sdevs.org)
 * [🍭 Bots](https://giveaways-bot.com)
+
+<img align="right" src="https://github-readme-stats.vercel.app/api?username=xrquu">

@@ -8,7 +8,8 @@
 [![Discord Badge](https://img.shields.io/badge/Twitter%20-18a6ed.svg?&amp;style=for-the-badge&amp;logo=twitter&amp;logoColor=white)](https://twitter.com/xrqulivee)
 
 <details><summary>✨ Show more</summary>
-  -----------
+  
+ -----------
 ## About me 
 
 
